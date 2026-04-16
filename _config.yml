@@ -1,3 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Majapahit & Australia, and a Game-Theoretic Simulation.
+description: This is the official GitHub Pages website for my project, entitled:
+> An Investigation into the Majapahit Geopolitical Model - Parallels between the Majapahit Empire and the Modern Australian State, with a Large-Scale Game-Theoretic Agentic Simulation of a Proposed Systemic Model Of Australia in the Next 50 Years
+theme: jekyll-theme-minimal 
+logo: 
